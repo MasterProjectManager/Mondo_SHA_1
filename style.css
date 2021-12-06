@@ -8,8 +8,13 @@ h1 {
   text-align: center;
 }
 
+.first {
+  background-color: lightgrey;
+}
+
 img {
   display: block;
+  padding: 40px 0px;
   margin: 60px auto;
   width: 400px;
   height: 400px;
